@@ -1,6 +1,7 @@
 {
-  "name": "Test Token 9 Million",
-  "symbol": "TT9M",
-  "description": "Testing Token Creation and meta data;)",
-  "image": "https://i.imgur.com/Y8QHDJV.jpeg"
-}
+    "name": "BOB COIN",
+    "symbol": "BOB",
+    "description": "Bob has built a custom Token-2022 token",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjRlYjgwMWMtNDFmMy00OWQ0LWFhMTMtNWE3MTU4ZjQ3MjgyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+    "decimals": 9
+  }
